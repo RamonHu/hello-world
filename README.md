@@ -2,4 +2,4 @@
 GitHub Starting
 
 Learn how to use GitHub.
-Try edit master 1.
+try edit branch 1.
